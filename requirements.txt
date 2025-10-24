@@ -1,8 +1,5 @@
-tensorflow 
-streamlit
-seaborn
+tensorflow==2.15.0
+streamlit==1.31.0
 numpy
 pandas
-pickle
-keras
 scikit-learn
